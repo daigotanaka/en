@@ -14,7 +14,7 @@ I hope you read my journal and share your thoughts with me. If you understand Ja
 +++
 
 
-! [Tahoe Ski Trip](... /images/tahoe-ski-trip-2023.jpg) /images/tahoe-ski-trip-2023.jpg)
+![Tahoe Ski Trip](../images/tahoe-ski-trip-2023.jpg) /images/tahoe-ski-trip-2023.jpg)
 
 My birthday has passed without incident this year.
 However, I had a bad sciatic nerve pain in November, and it was the end of the year when I had to take a break from hiking and jogging, which I like, to concentrate on the treatment.
@@ -26,7 +26,7 @@ I would like to share my experience with solopreneurs and scalable lifestyle bus
 
 The best thing that happened to me at work this year was creating a new product and forming a company with my friend Omar...
 
-! [Two Sea Lions Inc.](. /images/omar-daigo-two-sea-lions.jpg)
+![Two Sea Lions Inc.](../images/omar-daigo-two-sea-lions.jpg)
 
 but the company was created almost immediately in September.
 I'd like to summarize how something that was not even a shadow of a shadow at the beginning of the year came to be in the blink of an eye.
@@ -48,7 +48,7 @@ That is the origin of Two Sea Lions.
 
 Before launching Two Sea Lions, Omar and I created OmniCreator ([OmniCreator.club](https://omnicreator.club)), a membership service on LinkedIn that provides the tools and community to become a trusted professional. He created a membership service.
 
-[! [OmniCreator](. /images/omnicreator-landing-page.jpg)]](https://omnicreator.club)
+[![OmniCreator](../images/omnicreator-landing-page.jpg)]](https://omnicreator.club)
 
 LinkedIn is an important social network for American solopreneurs to develop customers and generate sales.
 Centered on LinkedIn, social selling is becoming an important keyword not only for solopreneurs but also for marketing and sales in large companies.
